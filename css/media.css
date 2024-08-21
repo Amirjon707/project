@@ -1,0 +1,219 @@
+@media screen and (max-width: 1450px) and (min-width: 1000px) {
+  .contaener {
+    width: 950px;
+  }
+  header nav {
+    height: 30px;
+  }
+  header nav img {
+    width: auto !important;
+  }
+  header nav li {
+    font-size: 10px !important;
+  }
+  header #header-section .section {
+    margin-top: 60px;
+  }
+  header #header-section .img {
+    width: 50% !important;
+  }
+  header #header-section .img img {
+    width: 100%;
+  }
+  header #header-section .text {
+    width: 47% !important;
+    margin-top: 0px !important;
+  }
+  header #header-section .text h2 {
+    font-size: 35px !important;
+  }
+  header #header-section .text p {
+    font-size: 12px !important;
+    margin: 12px 0 20px !important;
+  }
+  header #header-section .text .btns {
+    margin-bottom: 20px !important;
+  }
+  header #header-section .text .btns button {
+    height: 28px !important;
+  }
+  header #header-section .text .video {
+    display: flex;
+    align-items: center;
+  }
+  header #header-section .text .video p {
+    font-size: 11px !important;
+  }
+  header #header-section .text .video i {
+    width: 25px !important;
+    height: 25px !important;
+  }
+  header #header-section .text .video .player {
+    margin-right: 8px !important;
+  }
+  header button {
+    width: 100px !important;
+    font-size: 10px !important;
+  }
+}
+@media screen and (max-width: 1000px) and (min-width: 850px) {
+  .contaener {
+    width: 800px;
+  }
+  header nav {
+    height: 25px;
+  }
+  header nav img {
+    width: auto !important;
+    margin-right: 20px !important;
+  }
+  header nav li {
+    font-size: 9px !important;
+  }
+  header #header-section .img {
+    width: 50% !important;
+  }
+  header #header-section .img img {
+    width: 100%;
+  }
+  header #header-section .text {
+    width: 47% !important;
+    margin-top: 0px !important;
+  }
+  header #header-section .text h2 {
+    font-size: 30px !important;
+  }
+  header #header-section .text p {
+    font-size: 12px !important;
+    margin: 12px 0 20px !important;
+  }
+  header #header-section .text .btns {
+    margin-bottom: 15px !important;
+  }
+  header #header-section .text .btns button {
+    width: 85px !important;
+    height: 25px !important;
+  }
+  header #header-section .text .video {
+    display: flex;
+    align-items: center;
+  }
+  header #header-section .text .video p {
+    font-size: 10px !important;
+  }
+  header #header-section .text .video i {
+    width: 20px !important;
+    height: 20px !important;
+    position: relative;
+    font-size: 10px !important;
+  }
+  header #header-section .text .video .player {
+    width: 120px !important;
+    height: 60px !important;
+    margin-right: 8px !important;
+  }
+  header button {
+    width: 85px !important;
+    font-size: 9px !important;
+  }
+}
+@media screen and (max-width: 850px) and (min-width: 550px) {
+  .contaener {
+    width: 500px;
+  }
+  header nav {
+    height: 23px;
+  }
+  header nav img {
+    width: auto !important;
+    margin-right: 10px !important;
+  }
+  header nav li {
+    font-size: 8px !important;
+  }
+  header #header-section .section {
+    margin-top: 40px !important;
+  }
+  header #header-section .img {
+    width: 50% !important;
+  }
+  header #header-section .img img {
+    width: 100%;
+  }
+  header #header-section .text {
+    width: 47% !important;
+    margin-top: 0px !important;
+  }
+  header #header-section .text h2 {
+    font-size: 25px !important;
+  }
+  header #header-section .text p {
+    font-size: 10px !important;
+    margin: 10px 0 15px !important;
+  }
+  header #header-section .text .btns {
+    margin-bottom: 10px !important;
+  }
+  header #header-section .text .btns button {
+    width: 75px !important;
+    height: 25px !important;
+  }
+  header #header-section .text .video {
+    display: none !important;
+  }
+  header button {
+    width: 50px !important;
+    height: 20px !important;
+    font-size: 8px !important;
+  }
+}
+@media screen and (max-width: 550px) {
+  .contaener {
+    width: 95%;
+  }
+  header nav {
+    height: 15px;
+  }
+  header nav img {
+    width: auto !important;
+    margin-right: 5px !important;
+  }
+  header nav li {
+    font-size: 5px !important;
+    margin: 0 5px !important;
+  }
+  header #header-section .section {
+    margin-top: 30px !important;
+  }
+  header #header-section .img {
+    width: 50% !important;
+  }
+  header #header-section .img img {
+    width: 100%;
+  }
+  header #header-section .text {
+    width: 47% !important;
+    margin-top: 0px !important;
+  }
+  header #header-section .text h2 {
+    font-size: 16px !important;
+  }
+  header #header-section .text p {
+    display: none;
+  }
+  header #header-section .text .btns {
+    margin-top: 10px !important;
+  }
+  header #header-section .text .btns button {
+    width: 50px !important;
+    height: 15px !important;
+  }
+  header #header-section .text .video {
+    display: none !important;
+  }
+  header button {
+    width: 35px !important;
+    height: 15px !important;
+    font-size: 5px !important;
+  }
+}/*# sourceMappingURL=media.css.map */
